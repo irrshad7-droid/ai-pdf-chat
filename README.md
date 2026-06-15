@@ -145,6 +145,6 @@ The build output will be in the `dist` directory.
 
 MIT License
 
-## Resume Description
+## Description
 
 > Developed an AI-powered PDF Question Answering platform using React, Tailwind CSS, PDF.js, and Google Gemini API. Implemented document ingestion, contextual question answering, source attribution, automated summarization, and intelligent document analysis features in a responsive SaaS-style interface.
