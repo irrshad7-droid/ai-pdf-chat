@@ -8,6 +8,7 @@ import { usePDFProcessor, useChat, useGeminiKey } from './hooks';
 import type { QuickAction } from './types';
 
 function AppContent() {
+
   // State
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [showUploader, setShowUploader] = useState(false);
