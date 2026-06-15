@@ -147,4 +147,5 @@ MIT License
 
 ## Description
 
-> Developed an AI-powered PDF Question Answering platform using React, Tailwind CSS, PDF.js, and Google Gemini API. Implemented document ingestion, contextual question answering, source attribution, automated summarization, and intelligent document analysis features in a responsive SaaS-style interface.
+AI PDF Chat Assistant is an AI-powered document analysis platform that enables users to upload PDF documents and ask natural language questions about their contents. The application uses PDF.js for text extraction and Google Gemini for contextual question answering, summarization, and document insights. The project is deployed on Vercel and features a modern React + TypeScript architecture.
+
