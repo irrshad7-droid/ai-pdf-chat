@@ -2,6 +2,28 @@
 
 A production-quality AI-powered PDF Question Answering platform built with React, Tailwind CSS, PDF.js, and Google Gemini API.
 
+
+## Live Demo
+
+https://ai-pdf-chat-lovat.vercel.app
+
+## GitHub Repository
+
+https://github.com/irrshad7-droid/ai-pdf-chat
+
+
+## Screenshots
+
+### Upload PDF
+
+![Upload Screen](screenshots/upload-screen.png)
+
+### AI Chat Response
+
+![Chat Demo](screenshots/chat-demo.png)
+
+
+
 ## Features
 
 ### Core Functionality
@@ -122,6 +144,18 @@ src/
 - Optimized for documents up to 100 pages
 - Clean component architecture
 - Proper state management
+
+
+## Challenges Solved
+
+- Implemented PDF text extraction and processing using PDF.js.
+- Handled Gemini API rate limits and model availability issues.
+- Built a responsive chat interface for document interaction.
+- Added error handling for invalid or unsupported PDFs.
+- Optimized document processing for large PDF files.
+- Implemented secure API key management using browser local storage.
+
+
 
 ## Build for Production
 
